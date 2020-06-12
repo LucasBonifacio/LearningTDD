@@ -1,0 +1,3 @@
+/home/lucas/Documentos/Projetos/LearningTDD/fizzBuzzExample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lucas/Documentos/Projetos/LearningTDD/fizzBuzzExample/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lucas/Documentos/Projetos/LearningTDD/fizzBuzzExample/cmake-build-debug/CMakeFiles/fizzBuzzExample.dir

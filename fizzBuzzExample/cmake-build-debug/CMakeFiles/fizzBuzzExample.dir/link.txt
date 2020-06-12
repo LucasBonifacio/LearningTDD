@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/fizzBuzzExample.dir/main.cpp.o  -o fizzBuzzExample   -L/home/lucas/Documentos/Projetos/LearningTDD/googletest-master/build/lib  -Wl,-rpath,/home/lucas/Documentos/Projetos/LearningTDD/googletest-master/build/lib -lgtest -lgtest_main -lpthread 

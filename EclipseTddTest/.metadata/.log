@@ -1,0 +1,23 @@
+!SESSION 2020-06-10 20:21:31.467 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.version=11.0.6
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-10 20:26:59.114
+!MESSAGE Indexed 'TddTestProject' (1 sources, 174 headers) in 17,7 sec: 13.497 declarations; 21.257 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0,012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-10 20:35:16.167
+!MESSAGE Indexed 'TddTestProject' (1 sources, 174 headers) in 8,04 sec: 13.497 declarations; 21.257 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0,012%)
+!SESSION 2020-06-10 20:42:34.574 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.version=11.0.6
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-06-10 20:42:55.223
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
